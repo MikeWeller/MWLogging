@@ -1,1 +1,5 @@
 MWLogging - simple wrapper macros around the ASL (Apple System Log).
+
+See the blog post:
+
+http://doing-it-wrong.mikeweller.com/2012/07/youre-doing-it-wrong-1-nslogdebug-ios.html
